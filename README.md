@@ -24,6 +24,8 @@ There is a 3rd option missing from mainstream rhetoric.
 
 ## The Problem
 
+MIT Technology review forgot something. ***Performance***
+
 Modern software runs at roughly 1/1000th of what commodity silicon permits.
 
 [Leiserson et al. (2020)](https://doi.org/10.1126/science.aam9744) called this *"plenty of room at the top."* Their paper has many fantastic ideas, proposals, and demonstrations on how modern software can be optimized.
