@@ -66,7 +66,7 @@ It's faster to ship high level code. It's even faster to vibe code.
 > 
 > The code uses three nested loops and follows the method taught in basic linear-algebra classes. It turns out, however, that this naïve code leaves much of the performance available on modern computers “on the table.” The code takes about 7 hours on a modern computer to compute the matrix product, as shown by the first row (version 1) in [Table 1](https://www.science.org/doi/10.1126/science.aam9744#), achieving only 0.0006% of the peak performance of the machine. (Incidentally, Python 3 requires about 9 hours for the same computation.)
 
->| **Version** | **Implementation** | **Running time (s)** | **GFLOPS** | **Absolute speedup** | **Relative speedup** | **Fraction** <br>**of peak (%)** |
+| **Version** | **Implementation** | **Running time (s)** | **GFLOPS** | **Absolute speedup** | **Relative speedup** | **Fraction** <br>**of peak (%)** |
 | --- | --- | --- | --- | --- | --- | --- |
 | 1   | Python | 25,552.48 | 0.005 | 1   | —   | 0.00 |
 | 2   | Java | 2,372.68 | 0.058 | 11  | 10.8 | 0.01 |
