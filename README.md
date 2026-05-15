@@ -22,8 +22,6 @@ There is a 3rd option missing from mainstream rhetoric.
 
 > Can AI assist me with creating *"...real, valuable, secure, robust apps..."?*
 
-**No compromise.**
-
 ## The Problem
 
 Modern software runs at roughly 1/1000th of what commodity silicon permits.
