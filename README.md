@@ -16,10 +16,11 @@ What is vibe coding exactly? (https://www.technologyreview.com/2025/04/16/111513
 
 ***I completely reject the premise of vibe coding.***
 
-However, I see serious potential in AI-assisted development. I propose a test.
+However, I see serious potential in AI-assisted development.
 
 There is a 3rd option missing from mainstream rhetoric.
-Can AI assist me with creating *"...real, valuable, secure, robust apps..."?*
+
+> Can AI assist me with creating *"...real, valuable, secure, robust apps..."?*
 
 **No compromise.**
 
