@@ -20,13 +20,11 @@ However, I see serious potential in AI-assisted development.
 
 There is a 3rd option missing from mainstream rhetoric.
 
-**What if AI CAN assist me with creating *"...real, valuable, secure, robust apps..."?***
+**What if AI could assist me with creating *"...real, valuable, secure, robust apps..."?***
 
 ## The Problem
 
-MIT Technology review didn't mention another important aspect of software. ***Performance***
-
-Most modern software runs far slower than the silicon permits.
+What about software performance? Most modern software runs far slower than the silicon permits.
 
 [Leiserson et al. (2020)](https://doi.org/10.1126/science.aam9744) called this *"plenty of room at the top."* Their paper has many fantastic ideas, proposals, and demonstrations on how modern software can be optimized.
 
