@@ -20,7 +20,7 @@ I see serious potential in AI-assisted development. I cannot ignore the writing 
 
 What about the 3rd option missing from mainstream "vibe code" rhetoric.
 
-**What if AI could assist me with creating *"...real, valuable, secure, robust apps..."?***
+What if AI ***could*** assist me with creating "...real, valuable, secure, robust apps..."?
 
 ## The Problem
 
