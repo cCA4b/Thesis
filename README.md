@@ -14,11 +14,11 @@ What is vibe coding exactly? (https://www.technologyreview.com/2025/04/16/111513
 
 > Ultimately, while vibe coding can help make a vague idea for a website or a game into a reality, it can’t make it reliable or secure. But there are already plenty of existing tools to do this, helping you with everything from creating databases to adding authentication measures. So while you can’t vibe-code real, valuable, secure, robust apps into existence, it can be a useful place to start so long as you’re careful, says South.
 
-***I personally completely reject the premise of vibe coding.***
+I see serious potential in AI-assisted development. I cannot ignore the writing speed gains that AI can provide.
 
-However, I see serious potential in AI-assisted development. I can't bring myself to have AI completely decide implementation details, but I cannot ignore the writing speed gains that AI can provide.
+***I personally completely reject the premise of vibe coding.*** I cannot have AI completely decide implementation details.
 
-The 3rd option missing from mainstream "vibe code" rhetoric.
+What about the 3rd option missing from mainstream "vibe code" rhetoric.
 
 **What if AI could assist me with creating *"...real, valuable, secure, robust apps..."?***
 
