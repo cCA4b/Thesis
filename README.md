@@ -20,7 +20,7 @@ However, I see serious potential in AI-assisted development.
 
 There is a 3rd option missing from mainstream rhetoric.
 
-**Can AI assist me with creating *"...real, valuable, secure, robust apps..."?***
+**What if AI CAN assist me with creating *"...real, valuable, secure, robust apps..."?***
 
 ## The Problem
 
